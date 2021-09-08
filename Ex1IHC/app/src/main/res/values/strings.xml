@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="result_text">Result</string>
+    <string name="type_fst_number">Enter a first Number</string>
+    <string name="type_snd_number">Enter a second number</string>
+    <string name="label_btn_sum">Sum Numbers</string>
+</resources>
