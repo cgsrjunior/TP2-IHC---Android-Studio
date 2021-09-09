@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrabIHCpart2</string>
+    <string name="x_axis_text">X:</string>
+    <string name="y_axis_text">Y:</string>
+    <string name="z_axis_text">Z:</string>
+    <string name="lighting_text">Lighting</string>
+</resources>
